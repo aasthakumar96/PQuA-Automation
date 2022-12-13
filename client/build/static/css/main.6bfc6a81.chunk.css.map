@@ -1,0 +1,1 @@
+{"version":3,"sources":["stylesSheet.css"],"names":[],"mappings":"AAAA,MACI,aAAc,CACd,oBACJ,CAEA,cACI,UACJ","file":"main.6bfc6a81.chunk.css","sourcesContent":[".link {\n    color: #6E6E6E;\n    text-decoration: none;\n}\n\n.link :active {\n    color: blue;\n}"]}

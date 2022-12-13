@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ui/static/css/main.6bfc6a81.chunk.css",
+    "main.js": "/ui/static/js/main.0320e6dc.chunk.js",
+    "main.js.map": "/ui/static/js/main.0320e6dc.chunk.js.map",
+    "runtime-main.js": "/ui/static/js/runtime-main.ac96cff3.js",
+    "runtime-main.js.map": "/ui/static/js/runtime-main.ac96cff3.js.map",
+    "static/css/2.c876b8a2.chunk.css": "/ui/static/css/2.c876b8a2.chunk.css",
+    "static/js/2.078ddf3e.chunk.js": "/ui/static/js/2.078ddf3e.chunk.js",
+    "static/js/2.078ddf3e.chunk.js.map": "/ui/static/js/2.078ddf3e.chunk.js.map",
+    "index.html": "/ui/index.html",
+    "precache-manifest.76bead615626764095fa7bc91dcfeba5.js": "/ui/precache-manifest.76bead615626764095fa7bc91dcfeba5.js",
+    "service-worker.js": "/ui/service-worker.js",
+    "static/css/2.c876b8a2.chunk.css.map": "/ui/static/css/2.c876b8a2.chunk.css.map",
+    "static/css/main.6bfc6a81.chunk.css.map": "/ui/static/css/main.6bfc6a81.chunk.css.map",
+    "static/js/2.078ddf3e.chunk.js.LICENSE.txt": "/ui/static/js/2.078ddf3e.chunk.js.LICENSE.txt",
+    "static/media/PQuA 2021 Templates.zip": "/ui/static/media/PQuA 2021 Templates.a205cfb0.zip",
+    "static/media/logo.png": "/ui/static/media/logo.99faade2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac96cff3.js",
+    "static/css/2.c876b8a2.chunk.css",
+    "static/js/2.078ddf3e.chunk.js",
+    "static/css/main.6bfc6a81.chunk.css",
+    "static/js/main.0320e6dc.chunk.js"
+  ]
+}
