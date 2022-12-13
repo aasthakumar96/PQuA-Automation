@@ -1,0 +1,22 @@
+
+<!DOCTYPE html>
+<html lang="en" ng-app='myapp'>
+<head>
+  <base href='/'></base>
+  <meta charset="UTF-8"/>
+  <title></title>
+  <script src="pqua/angular.min.js"></script>
+  <script src="pqua/angular-route.min.js"></script>
+  <script src="pqua/lodash.min.js"></script>
+  <script src="pqua/angular-translate.min.js"></script>
+  <script src="pqua/angular-translate-loader-static-files.min.js"></script>
+  <script src='pqua/app.js?api_key=asrapikey'></script>
+</head>
+<body ng-controller="MainCtrl">
+<div ng-view></div>
+<label for="selectLanguge">{{'select_language'|translate}}</label>
+<select name="selectLanguage" id="selectLanguge" ng-model="currentLanguage" ng-change="updateLocale()">
+  <option value="{{language}}" ng-repeat="language in languages">{{language}}</option>
+</select>
+</body>
+</html>
