@@ -1,0 +1,34 @@
+{
+  "glaasUrl" : "https://glaas-qa.corp.adobe.com/",
+  "baseApi" : "https://pqua-qa.corp.ethos53-stage-or2.stage.ethos.corp.adobe.com/api/",
+
+  "glaasAuthApi" : "api/common/sweb/oauth/authorize?response_type=token&client_id=",
+  "glaasCheckSessionApi" : "api/common/v1.0/checkSession",
+  "glaasProductApi" : "api/l10n/v1.2/projects",
+
+  "viewerApis" : {
+    "allBugCategories" : "Viewer/all_bug_categories",
+    "allProducts" : "Viewer/all_products_list",
+    "dataResult" : "Viewer/data_result",
+    "productsIqe" : "Viewer/products_iqe"
+  },
+
+  "iqeApis" : {
+    "fetchJQL" : "IQE/fetch_jql_string",
+    "postJql" : "IQE/inserts_jql_string"
+  },
+
+  "pquaAqbApis" : {
+    "aqbResult" : "PQuA-AQB/aqb_result",
+    "pquaDownload" : "PQuA-AQB/PQuASheet_download/",
+    "pquaResult" : "PQuA-AQB/pqua_result",
+    "aqbPods" : "PQuA-AQB/aqb_admin_pods",
+    "templateDownload" : "PQuA-AQB/PQuATemplate_download_1"
+  },
+  
+  "admin" : {
+
+  },
+
+  "clientId" : "851d9a4e-7056-474c-b1a6-7739a301c2c2"
+}
